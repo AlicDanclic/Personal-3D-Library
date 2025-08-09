@@ -68,4 +68,10 @@
 <div align=center><img src="./Bitmap/USB-C-SMD_TYPE-C-6PIN-2MD-073.png"></div>
 
 
-- 其他
+- 器材
+
+```
+- Fan 40*40*20
+```
+
+<div align=center><img src="./Bitmap/fan.png"></div>
